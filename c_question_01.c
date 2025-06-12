@@ -1,3 +1,4 @@
+// question on variables,constants and keywords (part1)
 // program for area of circle and taking input from user
 // formula for area of circle pi*r*r
 #include <stdio.h>
