@@ -15,3 +15,4 @@ int main()
     printf("\n the simple intrest is %f",simple_intrest);
     return 0;
 }
+
