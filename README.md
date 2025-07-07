@@ -6,3 +6,5 @@ Question number 6 to 8  (intrsuctions and operators)
 Question number 9 to 13 (conditional instruction)
 <br>
 Question number 14 to 20 (Loop control instruction)
+<br>
+Question number 21 to 27 (functions and recursions)
